@@ -16,6 +16,7 @@ members = [
     "examples/flood",
     "examples/log",
     "examples/broadcast-demo",
+    "examples/broadcast-basic",
     "examples/vrf",
 ]
 resolver = "2"
